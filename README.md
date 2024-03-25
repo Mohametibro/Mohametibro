@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Mohametibro
+print  --("welcome to install packages ")
+
+
+https://github.com/Mohametibro/
+
+Mohametibro/assets/162906859/6d412745-f7bc-4c90-9772-3be0adad97af
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
